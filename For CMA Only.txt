@@ -1,0 +1,13 @@
+For CMA Only
+
+We need to run cmd as Administration
+
+paste the below command
+
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:\chrome_dev_session"
+
+open cma tracking page and complete the Captcha
+
+https://www.cma-cgm.com/ebusiness/tracking
+
+then run you python main.py in Terminal of VSCode
