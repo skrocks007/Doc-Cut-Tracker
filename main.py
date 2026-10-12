@@ -84,7 +84,7 @@ def process_single_row(p, sheet, row_num, booking, carrier, existing_pol, is_ret
 
 def run_manual_automation():
     print("\n====================================")
-    print("MANUAL SHIPPING TRACKER RUNNER")
+    print("MANUAL SHIPPING DOC CUT TRACKER RUNNER")
     print("====================================\n")
 
     # Start Chrome Debugging Browser Session if active
